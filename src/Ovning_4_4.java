@@ -15,5 +15,5 @@ public class Ovning_4_4 {
             JOptionPane.showMessageDialog(null, "Måtten: ok");
         else
             JOptionPane.showMessageDialog(null, "Felaktiga mått");
-    }
+    } //sist
 }
